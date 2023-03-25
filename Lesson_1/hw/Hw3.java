@@ -19,6 +19,7 @@ public class Hw3 {
         String operator = scanner.next();
         String digit2 = scanner.next();
         int b = Integer.parseInt(digit2);
+        scanner.close();
         switch (operator) {
             case "*": 
                 System.out.println(a*b);
