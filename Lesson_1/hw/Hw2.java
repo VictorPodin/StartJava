@@ -9,6 +9,8 @@ import java.util.List;
 public class Hw2 {
     public static void printSimpleNums() {
         List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
         boolean k = false; 
         for (int i = 2; i < 1000; i++) { // бежим по всем числам
             for (int j = 2; j < i; j++) { // бежим по делителям
