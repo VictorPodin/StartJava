@@ -9,6 +9,9 @@ public class Main {
     // }
     public static void main(String[] args) {
         //Task2.writeToFile();
-        Task3.write(".");
+        //Task3.write(".");
+        //Hw3.calcWithLog();
+        //Hw1.sortByBubble(Hw1.getIntArray(10)); //передаем длину
+        Hw2.parseByStringBuilder();
     }
 }
