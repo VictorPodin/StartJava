@@ -12,6 +12,6 @@ public class Main {
         //Task3.write(".");
         //Hw3.calcWithLog();
         //Hw1.sortByBubble(Hw1.getIntArray(10)); //передаем длину
-        Hw2.parseByStringBuilder();
+        Hw2.doWrongDesidionHW2();
     }
 }
