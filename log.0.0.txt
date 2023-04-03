@@ -1,0 +1,70 @@
+мар. 29, 2023 10:06:36 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 8меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 8меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 8меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 8меняем местами с9
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3меняем местами с8
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с3
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с3
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с3
+мар. 29, 2023 10:06:37 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 0меняем местами с3
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3 меняем местами с 5
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 6 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 7 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 3 меняем местами с 5
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 5
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 6 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 7 меняем местами с 9
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 5
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 6
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 5
+мар. 29, 2023 10:08:59 PM Lesson_2.hw.Hw1 sortByBubble
+INFO: 4 меняем местами с 5
