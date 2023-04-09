@@ -25,9 +25,8 @@ public class Main {
         // Task2.fillLibrary(prose);
         //Task3.deleteIntFromList();
 //Hw1
-        //List<Integer> listOfNumbers  = new ArrayList<>();
-        //listOfNumbers = Task1.generateIntList();
-        List<Integer> list  = new ArrayList<>();
+        
+        ArrayList<Integer> list  = new ArrayList<>();
         Random random = new Random();
         list.add(random.nextInt(11));
         list.add(random.nextInt(11));
@@ -37,10 +36,30 @@ public class Main {
         //list.add(random.nextInt(11));
         //list.add(random.nextInt(11));
         //list.add(random.nextInt(11));
-        System.out.println(list);
-        Hw1.mergeSort(list);
+        //System.out.println(list);
+        //Hw1.sortArrayByMerge(list); //Алгоритм Timsort
+      
         //int[] scr = new int[]{0,7,0,4,1,3};
-        //test.mergeSort(scr);
-        //System.out.println(Arrays.toString(scr));
+        //System.out.println("\nПростой массив: 0,7,0,4,1,3 ");
+        //test.mergeSort(scr);   
+        
+//Hw2 
+
+        //Hw2.getOnlyEvenDigit(list);
+
+//Hw3
+
+        //Hw3.searchMinMaxAverage(list);
+
+//Hw4
+
+        
+        List<Integer> list1 = Hw4.generateLists();
+        List<Integer> list2 = Hw4.generateLists();
+        //Hw4.getDifferenceOfArrays(list1, list2);
+        
+        Hw4.getSymDifferenceOfArrays(list1, list2);
     }
+
+
 }
